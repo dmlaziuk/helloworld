@@ -1,0 +1,152 @@
+.NET
+3D
+3D MAX
+ASP.NET
+AWS
+Account management
+Agile
+Ajax
+Algorithms and Data Structures
+Analytical Skills
+Android
+Angular
+Angular2
+AngularJS
+Apache
+Automation testing
+Azure
+Back-end
+Backbone
+Bash
+Big data
+Bind
+Boolen search
+Business analysis
+Cookies
+C#
+C++
+CMS
+CRM
+CSS
+CSS3
+CentOS
+Cloud
+Copywrighting
+Core Audio
+Data science
+Debian
+Design
+Development
+DevOps
+Docker
+Drupal
+Eclipse
+ElasticSearch
+English
+Entity Framework
+Excel
+Flux
+Front-end
+Git
+Groovy
+HTML
+HTML5
+HTTP
+Hibernate
+Hyper-V
+iOS
+jQuery
+J2EE
+Java
+JavaScript
+Koa
+KVM
+Kafka
+Kotlin
+Kubernetes
+Leadership skills
+Less
+Linkedin
+Linux
+MS SQL Server
+MS SharePoint
+MS Visual Studio
+MSSQL
+MVC
+MVVM
+Machine learning
+Management
+Manual testing
+MariaDB
+Marketing
+Mathematics
+Maya
+Mesos
+Mobile Development
+Mobile Marketing
+Mobile Testing
+MongoDB
+Multipath
+Multi-threading
+NFS
+Negotiations
+Nginx
+Node.js
+OOP
+OSGi
+Objective C
+OpenGL
+PHP
+Passenger
+Photoshop
+PostgreSQL
+PowerPoint
+Powerdns
+Product Development
+Project Management
+Python
+QA automation
+RHEL
+React
+React.js
+ReactiveCocoa
+Realm
+Redis
+Redux
+Release or Delivery Management
+Requirements development
+Ruby on Rails
+RxJava
+RxJava
+RxKotlin
+RxSwift
+SDLC
+SFDC
+SQL
+SalesForce
+Samba
+Scrum
+Selenium Webdriver
+Sourcing
+Spring
+Swift
+T-SQL
+TFS
+Tableau
+Testing
+Team Management
+Typescript
+UI/UX
+UIKit
+Unity
+Unix Administration
+User Stories
+VMware
+vSphere
+Visual Studio
+Webpack
+Web Development
+Windows
+WordPress
+XCode
+Zend Framework
