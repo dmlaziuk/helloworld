@@ -28,7 +28,7 @@ So, please hire me.
 [![Go](Go.png)](https://tour.golang.org/welcome/1)
 [![Perl](Perl.png)](https://www.perl.org/learn.html)
 [![CoffeeScript](CoffeeScript.png)](http://coffeescript.org)
-[![TeX](TeX.png)](https://www.latex-project.org/about/)
+[![TeX](TEX.png)](https://www.latex-project.org/about/)
 [![Swift](Swift.png)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html)
 [![Scala](Scala.png)](https://www.scala-lang.org/documentation/getting-started.html)
 [![Lisp](Lisp.png)](https://www.gnu.org/software/emacs/manual/html_node/elisp/index.html)
