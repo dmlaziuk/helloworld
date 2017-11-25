@@ -37,7 +37,7 @@ So, please hire me.
 [![Clojure](Clojure.png)](https://clojure.org/about/functional_programming)
 [![Matlab](Matlab.png)](https://www.mathworks.com/help/coder/examples/hello-world.html)
 [![Andruino](Andruino.png)](https://www.arduino.cc/en/Tutorial/HelloWorld)
-[![Groovy](Groovy.png)](http://docs.grails.org/latest/guide/gettingStarted.html)
+[![Groovy](Groovy.png)](https://ru.wikibooks.org/wiki/Groovy)
 [![Puppet](Puppet.png)](https://puppet.com/docs/puppet/5.0/quick_start_helloworld.html)
 [![Rust](Rust.png)](https://doc.rust-lang.org/1.1.0/book/hello-world.html)
 [![PowerShell](PowerShell.png)](https://technet.microsoft.com/en-us/library/bb963733.aspx)
