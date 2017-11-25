@@ -1,0 +1,3 @@
+all:
+    $(info Hello world!)
+
